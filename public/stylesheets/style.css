@@ -1,8 +1,15 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  padding-top: 50px;
 }
 
-a {
-  color: #00B7FF;
+.jumbotron {
+  background:url(../images/stars.jpg);
+}
+
+footer {
+  text-align: center;
+  background: #f4f4f4;
+  margin-top: 30px;
+  padding-top: 10px;
+  overflow: auto;
 }
